@@ -7,4 +7,6 @@ dev branch
 branch
 fix-1
 
-finish fixed conflicts!
+finish fixed conflcts!
+v0.0.1
+login function.
